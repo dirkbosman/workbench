@@ -25,6 +25,11 @@ Editor Extenstions:
 - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 
 
+Workflow: 
+- emmet
+- prettify
+- color + bracket
+
 
 
 NPM's Packages:
@@ -39,6 +44,19 @@ NPM's Packages:
 ### Editor: VS Code
 ### Editor: PyCharm
 ### Editor: Google Colab
+
+
+
+Stack / Tools
+
+Debugging
+
+Publishing
+
+
+
+
+
 
 
 
