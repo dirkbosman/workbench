@@ -8,7 +8,7 @@ Hi! I am [Dirk](https://www.linkedin.com/in/dirkjbosman/), below you can find a 
 
 ## Skillset
 - Software Tools
-- Hardware Tools
+- [Hardware Tools](https://github.com/dirkbosman/workbench/blob/master/hardware.md)
 - Workflows / Processes
 - Strategies
 - Best Practices
