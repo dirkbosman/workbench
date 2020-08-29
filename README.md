@@ -1,63 +1,14 @@
-# Workflow
-A set of tools and practices for productive workflow(s).
+# Workbench
 
+Hi! I am [Dirk](https://www.linkedin.com/in/dirkjbosman/), below you can find a helpful list of tools, processes and strategies I have used for productive workflow(s) in:
+- Data Science / Analytics
+- Front-end Development
+- Back-end Development
+- Product Management
 
-Hardware vs Software
-
-Hardware: 
-- Mac
-- Ubuntu
-
-
-
-
-Terminal
-* Fish
-
-
-## Javascript Development Workflow
-
-### Editor: VS Code
-
-Editor Extenstions:
-- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsls-vs)
-- [Bracket Pair Colorizer 1](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
-- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
-
-
-Workflow: 
-- emmet
-- prettify
-- color + bracket
-
-
-
-NPM's Packages:
-- https://github.com/dirkbosman/lilexpress/blob/master/package.json
-
-
-
-
-
-## Python Development Workflow
-
-### Editor: VS Code
-### Editor: PyCharm
-### Editor: Google Colab
-
-
-
-Stack / Tools
-
-Debugging
-
-Publishing
-
-
-
-
-
-
-
-
-
+## Skillset
+- Software Tools
+- Hardware Tools
+- Workflows / Processes
+- Strategies
+- Best Practices
