@@ -1,3 +1,0 @@
-Applications & Consoles: 
-
-Google Cloud & BigQuery (Console, API, Transfer Services), AT Internet, Flurry, Firebase (Analytics, Audiences, User Properties, Crashlytics, Cloud Messages, Remote Config & Prediction), Google Analytics, Google Tag Manager, Jupyter Notebooks, Pandas, SQLAlchemy, Plotly, Matplotlib, Google Spreadsheets, Excel, TapJoy, New Relic, Android Studio, TestFlight, HockeyApp, Google Search Console, Mobile Action, AppRadar, Google Play, Apple iTunes Connect, Microsoft Download Centre, Internal AB Testing & Statistical Framework,  Optimizely, VWO, Redash, QlikView, Microstrategy, Google Data Studio, Balsamiq, Zeplin and JIRA.
