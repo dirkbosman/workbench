@@ -7,8 +7,12 @@ Hi! I am [Dirk](https://www.linkedin.com/in/dirkjbosman/), below you can find a 
 - Product Management
 
 ## Skillset
-- Software Tools
-- [Hardware Tools](https://github.com/dirkbosman/workbench/blob/master/hardware.md)
+- [Software Applications](https://github.com/dirkbosman/workbench/blob/master/software-applications.md)
+- [Software Development](https://github.com/dirkbosman/workbench/blob/master/software-development.md)
+- [Computer Hardware](https://github.com/dirkbosman/workbench/blob/master/hardware.md)
 - Workflows / Processes
 - Strategies
 - Best Practices
+
+
+
