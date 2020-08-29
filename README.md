@@ -6,7 +6,7 @@ Hi! I am [Dirk](https://www.linkedin.com/in/dirkjbosman/), below you can find a 
 - Back-end Development
 - Product Management
 
-## Materials I find myself continually going back to:
+### Materials I find myself continually going back to:
 - [Software Applications](https://github.com/dirkbosman/workbench/blob/master/software-applications.md)
 - [Software Development](https://github.com/dirkbosman/workbench/blob/master/software-development.md)
 - [Computer Hardware](https://github.com/dirkbosman/workbench/blob/master/hardware.md)
