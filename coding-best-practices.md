@@ -1,8 +1,6 @@
 
 # Coding Best Practices
 
----
-
 ## Javascript & React Patterns
 
 In order to write quality JavaScript code (rather ems6) code, you will have to master below code best practices intuitively:
@@ -86,8 +84,6 @@ const LinkText = ({href,text}) => <a href={href]> {text] </a>
 Absolute imports
 - https://medium.com/hackernoon/absolute-imports-with-create-react-app-4c6cfb66c35d
 
-
----
 
 ## Python Patterns
 
