@@ -11,8 +11,11 @@
 ### Other
 - https://nomoremacbook.com/
 
-# B. Firmware
+# B. Operating Systems
 
-### Ubuntu
+### macOS
+- ...
+
+### Linux (Ubuntu)
 - https://ubuntu.com/download
 - https://c.mirifique.ch/2019/03/21/thinkpad-carbon-x1-and-ubuntu-18-04/
