@@ -1,11 +1,9 @@
 
 # Coding Best Practices
 
+---
 
-
-
-
-# Javascript / React Patterns
+## Javascript & React Patterns
 
 In order to write quality JavaScript code (rather ems6) code, you will have to master below code best practices intuitively:
 - useRef
@@ -89,6 +87,10 @@ Absolute imports
 - https://medium.com/hackernoon/absolute-imports-with-create-react-app-4c6cfb66c35d
 
 
+---
 
+## Python Patterns
+
+- Still to follow.
 
 
