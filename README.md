@@ -10,9 +10,10 @@ Hi! I am [Dirk](https://www.linkedin.com/in/dirkjbosman/), below you can find a 
 - [Software Applications](https://github.com/dirkbosman/workbench/blob/master/software-applications.md)
 - [Software Development](https://github.com/dirkbosman/workbench/blob/master/software-development.md)
 - [Hardware & Operating Systems](https://github.com/dirkbosman/workbench/blob/master/hardware.md)
+- [Coding Best Practices](https://github.com/dirkbosman/workbench/blob/master/coding-best-practices.md)
 - Workflows / Processes
 - Strategies
-- Coding Best Practices
+
 
 
 
