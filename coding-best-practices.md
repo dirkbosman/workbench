@@ -1,21 +1,23 @@
 
 # Coding Best Practices
 
+## General Patterns
+- Golden rule of coding: ```DRY - DO NOT REPEAT YOURSELF```
+
 ## Javascript & React Patterns
 
-In order to write quality JavaScript code (rather ems6) code, you will have to master below code best practices intuitively:
+In order to write quality JavaScript code (rather ems6), you will have to master below code best practices intuitively:
 - useRef
-- implicit return of arrow functions const p = x => 1+x;
-- the spread operator: ...Array
+- implicit return of arrow functions ```const p = x => 1+x;```
+- the spread operator: ```...Array```
 - conditional statements
 - useEffect
 - be able to: map over Arrays
 - be able to: make anything into a custom component
 - be able to: use useContext
 - be able to: make custom hooks
-- be able to: map over Objects with Object.keys(...)...
+- be able to: map over Objects with ```Object.keys(...)...```
 - use absolute imports
-- Golden rule of coding: DRY - DO NOT REPEAT YOURSELF
 
 ### Examples: 
 
